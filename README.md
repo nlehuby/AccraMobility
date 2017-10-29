@@ -8,6 +8,9 @@ More information about the project is available on beta.dataspace.fr/accramobili
 
 Our friend JungleBus has made a map, you can find it here: http://junglebus.io/accra/#13/5.5781/-0.2432. 
 
+## How to get raw data ?
+
+... more to come !
 
 ## Resources available
 
